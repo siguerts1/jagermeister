@@ -4,6 +4,6 @@ import (
 	"fmt"
 )
 
-func main(){
+func jagerbomb(){
 	fmt.Println("Your module works")
 }
